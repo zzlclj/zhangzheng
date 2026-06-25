@@ -1,6 +1,5 @@
 import os
-os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
-
+os.environ['HF_ENDPOINT'] = 'https://huggingface.co'
 import streamlit as st
 import re
 import requests
