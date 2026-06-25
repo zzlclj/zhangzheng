@@ -4,7 +4,6 @@ import streamlit as st
 import re
 import requests
 import json
-from dotenv import load_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from prompt_templates import RAG_PROMPT
