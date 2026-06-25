@@ -9,3 +9,4 @@ transformers
 torch
 spark-ai-python
 openpyxl
+python-dotenv
